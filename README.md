@@ -1,6 +1,6 @@
 # Hi, I'm Katya 👋
 
-IT Recruiter Staff-Hub
+IT Recruiter at Staff-Hub
 
 <p align='left'>
    <a href='https://staff-hub.ru/'>Staff-Hub</a> позиционируется на ИТ Аутстаффинге - предоставлении ИТ специалистов крупным FinTech, EdTech и Telecom компаниям, а так же продуктовым командам.
@@ -17,5 +17,5 @@ IT Recruiter Staff-Hub
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 Почта: e.gerasimova@staff-hub.ru
+   📫 Почта: <a href='mailto:e.gerasimova@staff-hub.ru'>e.gerasimova@staff-hub.ru</a>
 </p>
