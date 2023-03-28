@@ -1,7 +1,5 @@
 # Hi, I'm Katya 👋
 
-Екатерина Герасимова
-
 IT Recruiter Staff-Hub
 
 <p align='left'>
