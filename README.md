@@ -24,10 +24,6 @@ IT рекрутер в Staff-Hub
   </a>
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/ekaterina-gerasimova-staffhub/"> 
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-<p align='center'>
+<p align='left'>
    📫 Почта: <a href='mailto:e.gerasimova@staff-hub.ru'>e.gerasimova@staff-hub.ru</a>
 </p>
