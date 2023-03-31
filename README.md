@@ -13,7 +13,16 @@ IT рекрутер в Staff-Hub
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-kotlin-senior-lead/'>Kotlin</a>
 </p>
 
-Если вы хотели бы работать в нашей команде, но не нашли подходящих вакансий - возможно она затерялась. Присылайте ваше резюме на почту, мы всегда рады новым талантам :)
+Если вы хотели бы работать в нашей команде, но не нашли подходящих вакансий - возможно она затерялась. Присылайте ваше резюме, мы всегда рады сотрудничеству и новым талантам :)
+
+Контакты:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ekaterina-gerasimova-staffhub/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/geraterina">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/ekaterina-gerasimova-staffhub/"> 
