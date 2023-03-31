@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://t.me/addemoji/Staff_hub"/>
+</div>
+
+
 # Hi, I'm Katya 👋
 
 IT рекрутер в Staff-Hub
