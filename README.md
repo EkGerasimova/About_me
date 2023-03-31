@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="C:\Users\User\Documents\STAFF-HUB\1631558726509.png/>
+  <img src="![1631558726509](https://user-images.githubusercontent.com/122780339/229062874-e91eb72c-af1d-4fce-8408-fcde8e563ed7.png)
+/>
 </div>
 
 
