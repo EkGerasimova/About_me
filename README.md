@@ -8,10 +8,12 @@ IT рекрутер в Staff-Hub
 
 <p align='left'>
    Сейчас мы в поисках следующих специалистов: <a href='https://geeklink.io/job/staff-hub-full-time-razrabotchik-1s-v-sfere-zhkh/'>Разработчик 1С</a> , 
-   <a href='https://geeklink.io/job/staff-hub-full-time-konsultant-arhitektor-1s-senior/'>Консультант/Архитектор 1С</a>
+   <a href='https://geeklink.io/job/staff-hub-full-time-konsultant-arhitektor-1s-senior/'>Консультант/Архитектор 1С</a> ,
+   <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-golang-lead/'>Golang</a> ,
+   <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-kotlin-senior-lead/'>Kotlin</a>
 </p>
 
-Если вы хотели бы работать в нашей команде, но не нашли подходящих вакансий - возможно она затерялась. Присылайте ваше резюме, мы всегда рады новым талантам :)
+Если вы хотели бы работать в нашей команде, но не нашли подходящих вакансий - возможно она затерялась. Присылайте ваше резюме на почту, мы всегда рады новым талантам :)
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/ekaterina-gerasimova-staffhub/"> 
