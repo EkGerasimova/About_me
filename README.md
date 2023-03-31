@@ -28,6 +28,6 @@ IT рекрутер в Staff-Hub
 </div>
 
 <p align='left'>
-   <img src="https://img.shields.io/badge/-Почта-orange"/>
+   <img src="https://img.shields.io/badge/Почта-orange?style=for-the-badge&logo=почта&logoColor=orange"/>
    <a href='mailto:e.gerasimova@staff-hub.ru'>e.gerasimova@staff-hub.ru</a>
 </p>
