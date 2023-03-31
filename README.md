@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://t.me/addemoji/Staff_hub"/>
+  <img src="https://t.me/addemoji/White000" width="100"/>
 </div>
 
 
