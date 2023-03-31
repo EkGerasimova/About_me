@@ -1,4 +1,5 @@
-![staff-hub](https://user-images.githubusercontent.com/122780339/229063484-5f2f44b3-ec5a-4796-af10-6bf4e928a1ed.png)
+![staff-hub для github](https://user-images.githubusercontent.com/122780339/229064072-0b2e6bb6-99af-4205-9501-0be27948b755.png)
+
 
 # Екатерина Герасимова
 
