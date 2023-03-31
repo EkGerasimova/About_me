@@ -28,7 +28,6 @@ IT рекрутер в Staff-Hub
 </div>
 
 <p align='left'>
-   <img src="https://https://img.shields.io/static/v1?label=Почта&message=Почта&color=orange" alt="Почта Badge"/>
-   
+   Почта:
    <a href='mailto:e.gerasimova@staff-hub.ru'>e.gerasimova@staff-hub.ru</a>
 </p>
