@@ -1,10 +1,6 @@
-<div id="header" align="center">
-  <img src="![1631558726509](https://user-images.githubusercontent.com/122780339/229062874-e91eb72c-af1d-4fce-8408-fcde8e563ed7.png)
-/>
-</div>
+![staff-hub](https://user-images.githubusercontent.com/122780339/229063484-5f2f44b3-ec5a-4796-af10-6bf4e928a1ed.png)
 
-
-# Hi, I'm Katya 👋
+# Екатерина Герасимова
 
 IT рекрутер в Staff-Hub
 
