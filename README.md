@@ -13,7 +13,8 @@ IT рекрутер в Staff-Hub
    <a href='https://geeklink.io/job/staff-hub-full-time-konsultant-arhitektor-1s-senior/'>Консультант/Архитектор 1С</a> ,
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-golang-lead/'>Golang</a> ,
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-kotlin-senior-lead/'>Kotlin</a> ,
-   <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-c-na-proekt-v-sfere-informatsionnoj-bezopasnosti/'>C++</a>
+   <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-c-na-proekt-v-sfere-informatsionnoj-bezopasnosti/'>C++</a> ,
+   <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-android-middle/'>Android</a>
 </p>
 
 Если вы хотели бы работать в нашей команде, но не нашли подходящих вакансий - возможно она затерялась. Присылайте ваше резюме, мы всегда рады сотрудничеству и новым талантам :)
