@@ -20,10 +20,13 @@ IT рекрутер в Staff-Hub
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-golang-lead/'>Golang</a> ,
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-kotlin-senior-lead/'>Kotlin</a> ,
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-c-na-proekt-v-sfere-informatsionnoj-bezopasnosti/'>C++</a> ,
-   <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-android-middle/'>Android</a>
+   <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-android-middle/'>Android</a> ,
+   <a href='https://geeklink.io/job/staff-hub-full-time-android-razrabotchik/'>iOS разработчик</a>
 </p>
 
-📍 Что мы можем вам предложить:
+<p align='center'>
+Что мы можем вам предложить:
+</p>
 
 ✅ Проектная, полная занятость, удалённая работа. Возможно гибкое начало дня.
 
