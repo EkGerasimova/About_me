@@ -21,7 +21,8 @@ IT рекрутер в Staff-Hub
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-kotlin-senior-lead/'>Kotlin</a> ,
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-c-na-proekt-v-sfere-informatsionnoj-bezopasnosti/'>C++</a> ,
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-android-middle/'>Android</a> ,
-   <a href='https://geeklink.io/job/staff-hub-full-time-android-razrabotchik/'>iOS разработчик</a>
+   <a href='https://geeklink.io/job/staff-hub-full-time-android-razrabotchik/'>iOS разработчик</a> ,
+   <a href='https://geeklink.io/job/staff-hub-full-time-frontend-razrabotchik/'>Frontend</a>
 </p>
 
 <p align='center'>Что вы получите:</p>
