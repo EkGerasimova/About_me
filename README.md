@@ -15,7 +15,7 @@ IT рекрутер в Staff-Hub
 </p>
 
 <p align='left'>
-   Мы активно расширяем команду и нам требуются различные специалисты на outstaff проекты. Вот некоторые открытые вакансии: <a href='https://geeklink.io/job/staff-hub-full-time-razrabotchik-1s-v-sfere-zhkh/'>Разработчик 1С</a> , 
+   Мы активно расширяем команду и нам требуются различные специалисты на outstaff проекты. Вот некоторые открытые вакансии: 
    <a href='https://geeklink.io/job/staff-hub-full-time-konsultant-arhitektor-1s-senior/'>Консультант/Архитектор 1С</a> ,
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-golang-lead/'>Golang</a> ,
    <a href='https://geeklink.io/job/staff-hub-rossiya-full-time-backend-kotlin-senior-lead/'>Kotlin</a> ,
